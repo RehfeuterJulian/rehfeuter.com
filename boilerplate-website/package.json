@@ -1,0 +1,12 @@
+{
+  "name": "boilerplate-website",
+  "version": "1.0.0",
+  "description": "A simple boilerplate website indicating future publication.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "open src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
